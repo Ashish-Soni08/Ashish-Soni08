@@ -1,6 +1,5 @@
 ![Header](./header-image.png)
-<h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">Exploring the World of Data Analytics and AI</h3>
+<h1 align="center">Exploring the World of Data Analytics and AI</h1>
 <img align="right" alt="Coding" width="800" src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/06/Image_-_Chatbot.jpeg.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-soni08&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-soni08" /> </p>
