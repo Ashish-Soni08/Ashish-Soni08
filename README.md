@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://huggingface.co/Ashish08](https://huggingface.co/Ashish08)
 
-- 📝 I regularly write articles on [https://medium.com/@ashish-soni08](https://medium.com/@ashish-soni08)
+- 📝 I write articles on [https://medium.com/@ashish-soni08](https://medium.com/@ashish-soni08)
 
 - 💬 Ask me about **Data Analysis and Artificial Intelligence**
 
