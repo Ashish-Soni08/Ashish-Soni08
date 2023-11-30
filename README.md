@@ -2,7 +2,7 @@
 <h1 align="center">Exploring the World of Data Analytics and AI</h1>
 <img align="right" alt="Coding" width="700" src="https://github.com/Ashish-Soni08/Ashish-Soni08/blob/main/cute-robot.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-soni08&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-soni08" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-soni08" alt="ashish-soni08" /></a> </p>
 
