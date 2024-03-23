@@ -1,6 +1,6 @@
 ![Header](./header-image.png)
 <h1 align="center">Exploring the World of Data Analytics and AI</h1>
-<img align="right" alt="Coding" width="700" src="https://github.com/Ashish-Soni08/Ashish-Soni08/blob/main/cute-robot.jpg">
+<img align="right" alt="Coding" width="700" src="https://github.com/Ashish-Soni08/Ashish-Soni08/blob/main/humanity-agi.jpg">
 
 
 
