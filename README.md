@@ -1,7 +1,5 @@
 ![Header](./header-image.png)
 <h1 align="center">Exploring the World of Data Analytics and AI</h1>
-<img align="right" alt="Coding" width="700" src="https://github.com/Ashish-Soni08/Ashish-Soni08/blob/main/humanity-agi.jpg">
-
 
 <p align="left"> <a href="https://twitter.com/ashish_soni08" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_soni08?logo=twitter&style=for-the-badge" alt="ashish_soni08" /></a> </p>
 
