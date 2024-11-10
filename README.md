@@ -1,5 +1,6 @@
-![Header](./header-image.png)
-<h1 align="center">Exploring the World of Data Analytics and AI</h1>
+<h1 align="center">Hey, I'm Ashish</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tinos&weight=500&size=18&pause=1000&width=800&height=70&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Graduate+in+Data+and+Knowledge+Engineering+from+Otto+von+Guericke+University;%F0%9F%92%A1+Passionate+about+harnessing+AI+to+create+impactful+Business+value)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://twitter.com/ashish_soni08" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_soni08?logo=twitter&style=for-the-badge" alt="ashish_soni08" /></a> </p>
 
