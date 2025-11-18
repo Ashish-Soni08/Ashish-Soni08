@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashish_soni08" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_soni08?logo=twitter&style=for-the-badge" alt="ashish_soni08" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://huggingface.co/ashish-soni08](https://huggingface.co/ashish-soni08)
-
-- 📝 I write articles on [https://medium.com/@ashish-soni08](https://medium.com/@ashish-soni08)
+- 👨‍💻 **Personal Portfolio** [link](https://ashish-soni-career-journey-v0.vercel.app)
 
 - 💬 Ask me about **Data Analysis and Artificial Intelligence**
 
