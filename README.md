@@ -1,26 +1,60 @@
-<h1 align="center">Hey, I'm Ashish</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tinos&weight=500&size=18&pause=1000&width=800&height=70&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+Graduate+in+Data+and+Knowledge+Engineering+from+Otto+von+Guericke+University;%F0%9F%92%A1+Passionate+about+harnessing+AI+to+create+impactful+Business+value)](https://git.io/typing-svg)
-
-<p align="left"> <a href="https://twitter.com/ashish_soni08" target="blank"><img src="https://img.shields.io/twitter/follow/ashish_soni08?logo=twitter&style=for-the-badge" alt="ashish_soni08" /></a> </p>
-
-- 👨‍💻 **Personal Portfolio** [link](https://ashish-soni-career-journey-v0.vercel.app)
-
-- 💬 Ask me about **Data Analysis and Artificial Intelligence**
-
-- 📫 How to reach me **ashish.soni2091@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashish_soni08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_soni08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soni-ashish-2091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soni-ashish-2091" height="30" width="40" /></a>
-<a href="https://medium.com/@ashish-soni08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashish-soni08" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/journey-banner.png" width="100%" alt="Education and experience journey storyboard" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ashishsoni"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashishsoni" /></a></p><br><br>
+<p align="center">
+  <strong>Data & AI Practitioner | MSc Data and Knowledge Engineering</strong>
+</p>
 
+<p align="center">
+  <a href="https://ashish-soni-career-journey-v0.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/soni-ashish-2091">
+    <img src="./assets/linkedin-icon.svg" width="34" height="34" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Ashish_Soni08">
+    <img src="./assets/x-icon.svg" width="34" height="34" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/ashish-soni08">
+    <img src="./assets/huggingface-icon.svg" width="36" height="34" alt="Hugging Face" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ashish.soni2091@gmail.com">
+    <img src="./assets/email-icon.svg" width="34" height="34" alt="Email" />
+  </a>
+</p>
 
+---
+
+### About Me
+
+I work at the intersection of **data analysis**, **business reporting**, and **applied AI**.
+
+My focus is simple: _turn messy information into clear decisions_ and build practical AI-powered workflows that create real value.
+
+- **Based in:** Leipzig, Germany
+- **Background:** M.Sc. Data and Knowledge Engineering, Otto von Guericke University Magdeburg
+- **Core work:** analytics workflows, reporting, ETL pipelines, and LLM-powered applications
+- **Tools:** Python, SQL
+- **Motivation:** meaningful work, interesting problems, responsible use of AI, and analytical curiosity about what is actually happening in the numbers, from user behavior to real-world impact
+
+<p align="left">
+  <strong><em>AI assistants I use:</em></strong>
+  <img src="./assets/claude-code-icon.svg" width="24" height="24" alt="Claude Code" />
+  <strong>Claude Code</strong>
+  &nbsp;
+  <img src="./assets/codex-icon.svg" width="24" height="24" alt="Codex" />
+  <strong>Codex</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/research-banner.png" width="100%" alt="Currently exploring open-source AI, AI safety, AI governance, analytics, meaningful work, and solving interesting problems" />
+</p>
