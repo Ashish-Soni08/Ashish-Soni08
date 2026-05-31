@@ -9,25 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="https://ashish-soni-career-journey-v0.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://ashish-soni-career-journey-v0.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/soni-ashish-2091">
-    <img src="./assets/linkedin-icon.svg" width="34" height="34" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/soni-ashish-2091"><img src="./assets/linkedin-icon.svg" width="34" height="34" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/Ashish_Soni08">
-    <img src="./assets/x-icon.svg" width="34" height="34" alt="X" />
-  </a>
+  <a href="https://x.com/Ashish_Soni08"><img src="./assets/x-icon.svg" width="34" height="34" alt="X" /></a>
   &nbsp;&nbsp;
-  <a href="https://huggingface.co/ashish-soni08">
-    <img src="./assets/huggingface-icon.svg" width="36" height="34" alt="Hugging Face" />
-  </a>
+  <a href="https://huggingface.co/ashish-soni08"><img src="./assets/huggingface-icon.svg" width="36" height="34" alt="Hugging Face" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:ashish.soni2091@gmail.com">
-    <img src="./assets/email-icon.svg" width="34" height="34" alt="Email" />
-  </a>
+  <a href="mailto:ashish.soni2091@gmail.com"><img src="./assets/email-icon.svg" width="34" height="34" alt="Email" /></a>
 </p>
 
 ---
